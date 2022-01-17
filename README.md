@@ -19,4 +19,4 @@ Tests to validate the equivalence partitions related to the product's value in t
 - We always use the Before Each annotation to capture the token that will be used later in the test methods
 - We store the data that is sent to the API through the use of POJO classes
 - We create initial data through the use of the Data Factory class, to facilitate its creation and control.
-- In this project we use JUnit 5, which gives us the possibility to use the DisplayName annotation to give descriptions in Portuguese for our tests
+- In this project we use JUnit 5, which gives us the possibility to use the DisplayName annotation to give descriptions for our tests
