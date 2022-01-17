@@ -6,7 +6,7 @@ This is a repository that contains the automation of some API Rest tests of a so
 - Java:
   https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html
 - JUnit:
-  https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-engine/5.7.1
+  https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api/5.8.0-M1
 - RestAssured:
   https://mvnrepository.com/artifact/io.rest-assured/rest-assured/4.4.0
 - Maven:
