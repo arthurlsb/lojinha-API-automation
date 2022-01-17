@@ -13,7 +13,7 @@ This is a repository that contains the automation of some API Rest tests of a so
   https://maven.apache.org/
 
 ## Automated Tests
-Tests to validate the equivalence partitions related to the product's value in the Store, which are directly linked to the business rule that says that the product's value must be between BRL 0,01 and BRL 7000,00.
+Tests to validate the equivalence partitions related to the product's value in the Store, which are directly linked to the business rule that says that the product's value must be between BRL 0,01 and BRL 7.000,00.
 
 ## General notes
 - We always use the Before Each annotation to capture the token that will be used later in the test methods
