@@ -3,13 +3,13 @@
 This is a repository that contains the automation of some API Rest tests of a software called Lojinha. The subtopics below describe some decisions made in structuring the project.
 
 ## Technologies Used
-- Java
+- Java:
   https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html
-- JUnit
+- JUnit:
   https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-engine/5.7.1
-- RestAssured
+- RestAssured:
   https://mvnrepository.com/artifact/io.rest-assured/rest-assured/4.4.0
-- Maven
+- Maven:
   https://maven.apache.org/
 
 ## Automated Tests
